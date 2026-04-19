@@ -2,7 +2,7 @@
 
 ## Quick start
 
-**Requirements:** A single NVIDIA GPU (tested on H100), Python 3.10+, [uv](https://docs.astral.sh/uv/).
+**Requirements:** CPU (for now), Python 3.10+, [uv](https://docs.astral.sh/uv/).
 
 ```bash
 
