@@ -1,0 +1,17 @@
+# [build-system]
+# requires = ["setuptools>=68"]
+# build-backend = "setuptools.backends.legacy:build"
+#
+# [project]
+# name = "flow_mint"
+# version = "0.2.0"
+# requires-python = ">=3.10"
+# dependencies = [
+#     "polars[excel]>=0.20",
+#     "anthropic>=0.25",
+#     "pyyaml>=6",
+#     "rich>=13",       # optional: nicer terminal tables
+# ]
+#
+# [project.scripts]
+# flow_mint = "flow_mint.cli:main"

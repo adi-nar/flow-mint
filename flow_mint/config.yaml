@@ -1,0 +1,17 @@
+# banks:
+#   HDFC:
+#     path: '/Users/aditya/yard/vault/aditya/finance_stuff/hdfc/stmnts'
+#     file_type: "xls"
+#   CUB:
+#     path: '/Users/aditya/yard/vault/aditya/finance_stuff/cub/stmnts'
+#     file_type: "csv"
+#
+# salary:
+#   keywords:
+#     - "salary"
+#   min_thresh: 50_000
+#
+# internal_transfer_names:   # ← add your own name variants here
+#   - "aditya naresh"
+#   - "aditya naresh p l"
+
